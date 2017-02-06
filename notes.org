@@ -1,0 +1,8 @@
+* types
+primitives start with lower case and lack methods
+structs act as complex data types, and start upcase
+
+* cargo
+installed ~cargo-edit~ which includes a few convenience
+functions. most used was ~cargo add <crate>~ which adds the proper
+version as a dependency in ~Cargo.toml~
